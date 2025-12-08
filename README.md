@@ -69,6 +69,7 @@ streamlit run app.py
 - **Data Processing**: pandas, numpy
 - **Web Interface**: Streamlit
 - **API Integration**: TMDB API
+- **Download Artifacts from Google Drive**: gdown
 
 ## 📊 Project Structure
 
