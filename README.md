@@ -12,13 +12,13 @@ An intelligent movie recommendation system using k-NN Collaborative Filtering wi
 
 ## 📸 Demo
 
-<img src="demo/1.png" alt="workflow" width="70%">
+<img src="demo/1.png" alt="workflow" width="80%">
 
-<img src="demo/2.png" alt="workflow" width="70%">
+<img src="demo/2.png" alt="workflow" width="80%">
 
-<img src="demo/3.png" alt="workflow" width="70%">
+<img src="demo/3.png" alt="workflow" width="80%">
 
-<img src="demo/4.png" alt="workflow" width="70%">
+<img src="demo/4.png" alt="workflow" width="80%">
 
 ## 🚀 Installation & Usage
 
