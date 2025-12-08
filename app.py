@@ -21,10 +21,8 @@ def download_artifacts():
     
     for filepath, file_id in files.items():
         if not os.path.exists(filepath):
-            st.info(f'Downloading {os.path.basename(filepath)}...')
             url = f'https://drive.google.com/uc?id={file_id}'
             gdown.download(url, filepath, quiet=False)
-            st.success(f'Downloaded!')
 
 download_artifacts()
 
