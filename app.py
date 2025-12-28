@@ -135,7 +135,7 @@ with st.sidebar:
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
         <div style="display: flex; gap: 20px; font-size: 28px;">
             <a href="http://linkedin.com/in/emranalbeik" target="_blank"><i class="fab fa-linkedin"></i></a>
-            <a href="https://github.com/RedDragon30" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="https://github.com/emranalbiek" target="_blank"><i class="fab fa-github"></i></a>
             <a href="https://emranalbeik.odoo.com/" target="_blank"><i class="fas fa-globe"></i></a>
             <a href="mailto:emranalbiek@gmail.com"><i class="fas fa-envelope"></i></a>
         </div>
