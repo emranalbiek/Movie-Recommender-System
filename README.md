@@ -25,7 +25,7 @@ An intelligent movie recommendation system using k-NN Collaborative Filtering wi
 ### STEP 01- Clone the repository
 
 ```bash
-https://github.com/RedDragon30/Movies-Recommender-System.git
+https://github.com/emranalbiek/Movies-Recommender-System.git
 ```
 
 ### STEP 02- Create a environment after opening the repository
@@ -102,7 +102,7 @@ streamlit run app.py
 **Emran Albeik**
 
 - [LinkedIn](http://linkedin.com/in/emranalbeik)
-- [GitHub](https://github.com/RedDragon30)
+- [GitHub](https://github.com/emranalbiek)
 - [Website](https://emranalbeik.odoo.com/)
 - [Email](mailto:emranalbiek@gmail.com)
 
